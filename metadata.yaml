@@ -6,6 +6,8 @@ creator:
     gutenberg_agent_id: '48274'
     url: http://www.gutenberg.org/2009/agents/48274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55308#u-Progress-and-Poverty-Volume-I-of-2nAn-Inquiry-into-the-Cause-of-Industrial-Depressions-andn_
 gutenberg_issued: '2017-08-08'
 gutenberg_type: Text
 identifiers:
@@ -16,12 +18,6 @@ rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
 - GITenberg
-title:
-- 'Progress and Poverty, Volume  I (of 2)
-
-  An Inquiry into the Cause of Industrial Depressions and
-
-  of Increase of Want with Increase of Wealth'
-- "Progress and Poverty, Volumes I and II\r\nAn Inquiry into the Cause of Industrial\
-  \ Depressions and\r\nof Increase of Want with Increase of Wealth"
+title: Progress and Poverty, Volumea  I and 2 An Inquiry into the Cause of Industrial
+  Depressions and of Increase of Want with Increase of Wealth
 url: http://www.gutenberg.org/ebooks/55308
