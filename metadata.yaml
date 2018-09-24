@@ -1,11 +1,16 @@
 _repo: u-Progress-and-Poverty-Volume-I-of-2nAn-Inquiry-into-the-Cause-of-Industrial-Depressions-andn__55308
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55308-h/images/cover.jpg
 creator:
   author:
     agent_name: George, Henry
     gutenberg_agent_id: '48274'
     url: http://www.gutenberg.org/2009/agents/48274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55308#u-Progress-and-Poverty-Volume-I-of-2nAn-Inquiry-into-the-Cause-of-Industrial-Depressions-andn_
 gutenberg_issued: '2017-08-08'
 gutenberg_type: Text
 identifiers:
